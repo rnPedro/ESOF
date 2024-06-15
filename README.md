@@ -28,15 +28,9 @@ A estrutura do repositório está organizada da seguinte forma:
 
 ## Diagramas de Caso de Uso
 
-Os diagramas de caso de uso estão localizados na pasta `diagrams`. Eles foram criados para ajudar na visualização e compreensão dos requisitos do sistema. Aqui estão alguns exemplos:
+Os diagramas de caso de uso estão localizados no repo com o final .asta ou png. Eles foram criados para ajudar na visualização e compreensão dos requisitos do sistema. Aqui estão alguns exemplos:
 
-### Diagrama de Caso de Uso 1
 
-![Caso de Uso 1](diagrams/caso_de_uso_1.png)
-
-### Diagrama de Caso de Uso 2
-
-![Caso de Uso 2](diagrams/caso_de_uso_2.png)
 
 ## Código Python
 
