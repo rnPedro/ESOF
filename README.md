@@ -66,8 +66,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 
 Se você tiver alguma dúvida, entre em contato pelo e-mail: [seu-email@dominio.com](pedronatalr@gmail.com)
 
----
-
-Esperamos que este repositório seja útil para o seu aprendizado e desenvolvimento na disciplina de Engenharia de Software.
-```
 
