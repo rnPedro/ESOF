@@ -64,6 +64,6 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ## Contato
 
-Se você tiver alguma dúvida, entre em contato pelo e-mail: [seu-email@dominio.com](pedronatalr@gmail.com)
+Se você tiver alguma dúvida, entre em contato pelo e-mail: [pedronatalr@gmail.com]
 
 
